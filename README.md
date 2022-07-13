@@ -12,3 +12,4 @@ Ahora procedemos al multifuncionamiento del codigo para lo cual crearemos dos pr
 Ahora mandamos a iniciar amos procesos a la vez.
 ![image](https://user-images.githubusercontent.com/66786471/178618155-a8c63931-ef66-4635-9551-7d4dff1ca0a8.png)
 
+![image](https://user-images.githubusercontent.com/66786471/178618538-441755bf-e9fd-4e7b-8f33-f9b42c40316f.png)
